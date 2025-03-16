@@ -1,0 +1,12 @@
+body {
+    padding-top: 56px;
+}
+.hero {
+    background: url('../images/banner.jpg') no-repeat center center;
+    background-size: cover;
+    color: white;
+    height: 400px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
